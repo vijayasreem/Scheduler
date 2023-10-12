@@ -42,3 +42,6 @@ E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\De
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.API\obj\Debug\net7.0\sacraldotnet.API.genruntimeconfig.cache
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.API\obj\Debug\net7.0\ref\sacraldotnet.API.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.API\bin\Debug\net7.0\Npgsql.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.API\obj\Debug\net7.0\sacraldotnet.API.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.API\obj\Debug\net7.0\refint\sacraldotnet.API.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.API\obj\Debug\net7.0\sacraldotnet.API.pdb

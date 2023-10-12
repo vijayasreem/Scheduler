@@ -13,3 +13,6 @@ E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\De
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.DataAccess\obj\Debug\net7.0\refint\sacraldotnet.DataAccess.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.DataAccess\obj\Debug\net7.0\sacraldotnet.DataAccess.pdb
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.DataAccess\obj\Debug\net7.0\ref\sacraldotnet.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DataAccess\obj\Debug\net7.0\sacraldotnet.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DataAccess\obj\Debug\net7.0\refint\sacraldotnet.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DataAccess\obj\Debug\net7.0\sacraldotnet.DataAccess.pdb

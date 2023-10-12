@@ -9,3 +9,11 @@ E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\De
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\refint\sacraldotnet.DTO.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.pdb
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1751\202310125944\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\ref\sacraldotnet.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.csproj.AssemblyReference.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.AssemblyInfoInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.AssemblyInfo.cs
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\refint\sacraldotnet.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1752\202310120619\sacraldotnet\sacraldotnet.DTO\obj\Debug\net7.0\sacraldotnet.DTO.pdb
