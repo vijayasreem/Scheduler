@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8heQRiSwW3HrYrBk2T5/27kgzn5zf4PG50qZDL/jaM6No27uVCAphLEJUKzhIZzedRvxCcew/BQ4uy/8PpagKg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1751\\202310125944\\sacraldotnet\\sacraldotnet.DataAccess\\sacraldotnet.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anagisetty\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\anagisetty\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
